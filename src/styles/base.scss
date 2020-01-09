@@ -1,0 +1,10 @@
+@import 'utils';
+
+body {
+  margin: 0;
+  background: $oc-gray-8; // open-color 등록 색상 // oc-색상-명암
+  box-sizing: border-box;
+}
+* {
+  box-sizing: inherit;
+}
